@@ -30,14 +30,21 @@ This project explores the Netflix Movies dataset using Python and Jupyter Notebo
  
 ### 🛠️ Tools & Libraries
   -	Python
+    
   -	Pandas → Data manipulation
+    
   - NumPy → Numerical computations
+    
   - Matplotlib & Seaborn → Data visualization
+    
   -	Jupyter Notebook → Interactive analysis
 
 ### 📊 Insights Highlight
 
   - 📅 Movie release trends: Analysis of movies released over time
+    
   -	🎬 Genres: Most common genres on Netflix
+    
   -	⏱️ Durations: Distribution of movie runtimes
+    
   -	⭐ Ratings: Content rating breakdown across movies
